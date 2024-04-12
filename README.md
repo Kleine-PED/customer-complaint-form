@@ -35,7 +35,8 @@ This project is a simple web application built using React and Tailwind CSS for 
 - Full Name
 - Email or Phone Number (at least one is required)
 - Complaint Details (limited to 1000 characters)
-3.Click the submit button.
-**If all input is valid** ,an alert will be shown indicating successful submission. And form data will be logged to the console in JSON format.
+3. Click the submit button.
+
+*** **If all input is valid** ,an alert will be shown indicating successful submission. And form data will be logged to the console in JSON format.
 
 ### 👉🏼[Click here for Preview](https://customer-complaint-form.vercel.app/)
